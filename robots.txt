@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ousithal.github.io/sitemap.html.gz
+Sitemap: https://ousithal.github.io/app/sitemap.html.gz
+Sitemap: https://ousithal.github.io/assets/sitemap.html.gz
+Sitemap: https://ousithal.github.io/css/sitemap.html.gz
+Sitemap: https://ousithal.github.io/data/sitemap.html.gz
+Sitemap: https://ousithal.github.io/includes/sitemap.html.gz
+Sitemap: https://ousithal.github.io/item/sitemap.html.gz
+Sitemap: https://ousithal.github.io/src/sitemap.html.gz
